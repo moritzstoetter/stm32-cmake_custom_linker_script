@@ -1,0 +1,6 @@
+{
+  "name": "example",
+  "version-string": "0.0.1",
+  "dependencies": [],
+  "builtin-baseline": "07c93b8cd5e2b7fd6d757477d7c59abfc2992842"
+}
